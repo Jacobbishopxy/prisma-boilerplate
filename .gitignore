@@ -37,3 +37,5 @@ build
 prisma
 !prisma/.env.template
 !prisma/schema.prisma.template
+schema.graphql
+src/generated/nexus.ts
