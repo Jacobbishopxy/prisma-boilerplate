@@ -34,3 +34,6 @@ screenshot
 .eslintcache
 
 build
+prisma
+!prisma/.env.template
+!prisma/schema.prisma.template
