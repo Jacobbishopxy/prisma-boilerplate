@@ -1,4 +1,4 @@
-# EI Prisma
+# EI Boilerplate
 
 1. Introspect database, result shows in `prisma/shcema.prisma`
     
